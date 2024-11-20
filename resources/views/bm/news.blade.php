@@ -38,7 +38,7 @@
                 <div class="news-item position-relative">
                     <img src="frontend/assets/img/news/news3.jpg" class="news-image" alt="News Image 3">
                     <div class="news-content">
-                        <h3>Kenyataan Akhbar oleh MTEM: Ti Lian Ker</h3>
+                        <h3>Kenyataan Akhbar oleh MTEM: Ti Lian Keasaassasr</h3>
                     </div>
                 </div>
                 </a>
